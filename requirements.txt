@@ -1,0 +1,10 @@
+fastapi[standard]
+pymongo
+motor
+pandas
+scikit-learn
+beautifulsoup4
+pydantic
+uvicorn
+python-dotenv
+requests
